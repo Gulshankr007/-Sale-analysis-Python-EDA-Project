@@ -1,7 +1,7 @@
-                                                                 Python Sales Analysis EDA project
+                                                       Python Sales Analysis EDA project
   
 
-![image alt](https://github.com/Gulshankr007/-Sale-analysis-Python-EDA-Project/blob/main/Python%20pj%20flowdiagram.png?raw=true)
+  ![image alt](https://github.com/Gulshankr007/-Sale-analysis-Python-EDA-Project/blob/main/Python%20pj%20flowdiagram.png?raw=true)
 
 PROJECT DISCRIPTION 
 
