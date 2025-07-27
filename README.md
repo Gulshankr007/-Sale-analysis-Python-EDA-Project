@@ -1,7 +1,7 @@
-Python Sales Analysis
-[
-[![Uploading Python pj flowdiagram.png…]()
-](https://github.com/Gulshankr007/-Sale-analysis-Python-EDA-Project/blob/c85b5e7f291b6d3745a92270b91c34f0e667f0b4/Python%20pj%20flowdiagram.png)](https://github.com/Gulshankr007/-Sale-analysis-Python-EDA-Project/blob/c85b5e7f291b6d3745a92270b91c34f0e667f0b4/Python%20pj%20flowdiagram.png)
+                                                                 Python Sales Analysis EDA project
+  
+
+![image alt](https://github.com/Gulshankr007/-Sale-analysis-Python-EDA-Project/blob/main/Python%20pj%20flowdiagram.png?raw=true)
 
 PROJECT DISCRIPTION 
 
