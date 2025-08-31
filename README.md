@@ -1,1 +1,1 @@
-# 🎵 Diwali Sale Analysis (SQL Project)  
+#  Diwali Sale Analysis (SQL Project)  
