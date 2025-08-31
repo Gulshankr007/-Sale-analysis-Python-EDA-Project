@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis (SQL + Python Project)
+# 📊 Sales Data Analysis (Python Project)
 
   ![Banner](https://github.com/Gulshankr007/-Sale-analysis-Python-EDA-Project/blob/e17bb8c0fb5b7852dcf56195f0c91b26afa5e491/Python%20pj%20flowdiagram.png)
 
