@@ -1,56 +1,95 @@
-                                            Python Sales Analysis EDA project
-  
+# 🎵 Music Store Analysis (SQL Project)  
 
-  ![image alt](https://github.com/Gulshankr007/-Sale-analysis-Python-EDA-Project/blob/main/Python%20pj%20flowdiagram.png?raw=true)
+---
 
-PROJECT DISCRIPTION 
+## 📌 Overview  
+This project is a **hands-on SQL analysis** of a fictional **Music Store database**. It demonstrates how SQL can answer **real-world business questions** using **PostgreSQL** and **pgAdmin4**.  
 
-🛒 Python Project: Sale Analysis
+The dataset simulates a **digital music store**, containing customers, invoices, tracks, artists, employees, playlists, and genres.  
 
-This project demonstrates a complete Sales Analysis Pipeline using Python and Jupyter Notebook. It leverages Python's data stack to clean, explore, and analyze sales data with the goal of uncovering insights and strategies to increase sales performance.
+---
 
-🔧 Tech Stack
-Language: Python 🐍
+## 🎯 Objectives  
+Using SQL, this project solves analytical problems such as:  
+- 👨‍💼 Identifying the **senior-most employee**  
+- 🌍 Analyzing **invoice trends by country & city**  
+- 💰 Finding **top customers & high-value purchases**  
+- 🎶 Discovering **music preferences by region**  
+- 📊 Determining the **most popular genres & artists**  
 
-Environment: Jupyter Notebook 📓
+---
 
-Libraries Used:
+## ⚙️ Tools & Technologies  
+- 🗄️ **Database**: PostgreSQL  
+- 🖥️ **Interface**: pgAdmin4  
+- 🧑‍💻 **Language**: SQL  
+- 📂 **Schema**: Music Store Database  
 
-pandas – Data manipulation
+---
 
-numpy – Numerical computations
+## 📊 Business Questions Answered  
 
-matplotlib – Visualization
+### ✅ Beginner-Level Queries  
+- Find the **most senior employee** (by job title)  
+- Identify **countries with most invoice activity**  
+- Discover **cities generating highest revenue**  
+- Determine the **top-spending customer**  
 
-seaborn – Statistical graphics
+### ⚙️ Intermediate-Level Analysis  
+- List all **rock music listeners** by email  
+- Identify **artists with the most rock songs**  
+- Find **tracks longer than average duration**  
 
-📊 Project Workflow
+### 🧠 Advanced-Level Insights  
+- Analyze **customer spending on top-selling artists**  
+- Determine **most popular genre by country**  
+- Identify the **highest-spending customer per country**  
 
-🧩 Each step is visually represented in the attached project diagram for better understanding.
+> These queries use **Joins, Aggregations, Subqueries, CTEs, and Window Functions** to extract insights from complex relationships.  
 
-📁 Key Steps
-Import Required Libraries
-Load essential Python libraries for data processing and visualization.
+---
 
-Read the Data
-Load the sales data from CSV format for further analysis.
+## 🖼️ Schema Diagram  
 
-Data Cleaning
-Handle missing values, incorrect types, duplicates, and outliers.
+The relational schema shows connections between **Customer, Invoice, Track, Artist, Genre, InvoiceLine, and Employee**.  
 
-Exploratory Data Analysis (EDA)
-Generate visual insights: trend analysis, category performance, peak sales periods, etc.
+![Music Store Schema](https://github.com/Gulshankr007/Music-Store-Analysis-Sql/blob/bf9a5f66d90ee13380513056e6c0e1410b2a8070/MusicDatabaseSchema.png)  
 
-Insights for Business
-Suggest actionable steps to optimize sales based on data patterns.
+---
 
-📈 Output
+## 📌 Key Concepts Practiced  
+- 🗂️ **Data Modeling & Relationships**  
+- 🔗 **Multi-table Joins**  
+- 🔍 **Filtering & Sorting Data**  
+- 📊 **Aggregating metrics with GROUP BY**  
+- 📑 **Subqueries & Common Table Expressions (CTEs)**  
+- 🏆 **Ranking & Partitioning with ROW_NUMBER()**  
 
-The outcome of this project includes:
+---
 
-Cleaned and structured dataset
+## 🚀 Getting Started  
+1. Install **PostgreSQL** & **pgAdmin4**  
+2. Import the **Music Store database schema**  
+3. Run the **SQL queries** provided in this project  
+4. Extend or modify queries to explore new insights  
 
-Interactive graphs and trends
+---
 
-Data-driven strategies to enhance sales
+## ✅ Outcome  
+This project demonstrates:  
+✔ Strong SQL data analysis skills  
+✔ Ability to translate business problems ➝ SQL queries  
+✔ Real-world data exploration techniques  
+✔ Preparation for **data analyst interviews & case studies**  
 
+---
+
+## 🌟 Author  
+
+👤 **Gulshan Kumar**  
+📧 [gulshan.ggk68@gmail.com](mailto:gulshan.ggk68@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/gulshan-kumar-522783223) | [GitHub](https://github.com/Gulshankr007)  
+
+---
+
+✨ If you found this project useful, don’t forget to ⭐ **star the repo**!  
